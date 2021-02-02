@@ -1,2 +1,2 @@
 # towett08
-towett repository
+towett repository for git command demonstration
